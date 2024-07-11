@@ -1,4 +1,4 @@
-# gohashcode [![GoDoc](https://godoc.org/github.com/okhomin/go-hashcode?status.svg)](https://godoc.org/github.com/okhomin/go-hashcode)
+# gohashcode [![GoDoc](https://godoc.org/github.com/okhomin/gohashcode?status.svg)](https://godoc.org/github.com/okhomin/gohashcode)
 
 gohashcode is a Go library for generating a unique hash value for arbitrary values in Go.
 
